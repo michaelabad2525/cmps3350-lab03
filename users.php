@@ -6,5 +6,6 @@ $users = [
     'toothmang',
     'michaelabad2525',
     'chidoskii',
+    'vfigueroa721',
 ];
 ?>
