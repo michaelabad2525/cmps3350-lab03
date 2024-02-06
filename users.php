@@ -11,5 +11,6 @@ $users = [
     'braden-ca',
     'hectorm22',
     'rreddemann',
+    'carucheo',
 ];
 ?>
