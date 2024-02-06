@@ -59,9 +59,9 @@ foreach($users as $user) {
     }
 ?>
     <div class="card">
-        <h4><a href="<?=$userData['html_url']?>"><?=$userData['login']?></a></h4>
+        <div><strong><a href="<?=$userData['html_url']?>"><?=$userData['login']?></a></strong></div>
         Repos: <?= $userData['public_repos'] ?>
-        <img src="<?= $userData['avatar_url']?>">
+        <img src="<?= $userData['avatar_url']?>" alt="GitHub avatar for <?=$userData['login']?>">
     </div>
 <?php
 }
