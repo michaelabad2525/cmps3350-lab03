@@ -5,5 +5,6 @@ $users = [
 	'ntoothman',
     'toothmang',
     'michaelabad2525',
+    'chidoskii',
 ];
 ?>
