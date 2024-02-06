@@ -1,5 +1,6 @@
 <?php
 $users = [
+	'1ntricate',
     'blashhasfhwae',
     'yeoldelancer',
     'ntoothman',
@@ -12,6 +13,15 @@ $users = [
     'hectorm22',
     'rreddemann',
     'carucheo',
+    'aanariveraa',
+    'egamino3',
+    'LogWB',
+    'wherdared',
+    'killedcade',
+    'vfigueroa721',
+    'andrea-s7',
+    'HongVyy',
+    'baung10',
     'l-135',
 ];
 ?>
