@@ -17,5 +17,6 @@ $users = [
     'egamino3',
     'LogWB',
     'wherdared',
+    'killedcade',
 ];
 ?>
