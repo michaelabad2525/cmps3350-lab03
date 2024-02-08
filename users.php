@@ -1,5 +1,6 @@
 <?php
 $users = [
+    'NoBugsHappyLife',
     'blashhasfhwae',
     'yeoldelancer',
     'ntoothman',
