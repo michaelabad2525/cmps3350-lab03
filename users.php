@@ -1,6 +1,6 @@
 <?php
 $users = [
-	  '1ntricate',
+	'1ntricate',
     'blashhasfhwae',
     'yeoldelancer',
     'ntoothman',
@@ -26,5 +26,6 @@ $users = [
     'l-135',
     'jacobjosiah',
     'amunoz',
+    'rileybez',
 ];
 ?>
