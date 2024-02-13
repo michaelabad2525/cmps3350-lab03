@@ -1,6 +1,7 @@
 <?php
 $users = [
-	  '1ntricate',
+	'douglas-cerrato',
+    '1ntricate',
     'blashhasfhwae',
     'yeoldelancer',
     'ntoothman',
