@@ -1,6 +1,8 @@
 <?php
 $users = [
-	'1ntricate',
+    'jen444x',
+    'NoBugsHappyLife',
+	  '1ntricate',
     'blashhasfhwae',
     'yeoldelancer',
     'ntoothman',
@@ -26,6 +28,8 @@ $users = [
     'l-135',
     'jacobjosiah',
     'amunoz',
+    'CyberpunkEdgerunners',
+    'PriscillaZvl',
     'rileybez',
 ];
 ?>
