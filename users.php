@@ -30,5 +30,6 @@ $users = [
     'amunoz',
     'CyberpunkEdgerunners',
     'PriscillaZvl',
+    'rileybez',
 ];
 ?>
