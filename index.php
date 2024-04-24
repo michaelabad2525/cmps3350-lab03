@@ -35,7 +35,7 @@ function getUser($user) {
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width,initial-scale=1">
-        <title>CMPS 3350 Gallery</title>
+        <title>CMPS 3350 Gallery!</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
